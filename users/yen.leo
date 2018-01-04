@@ -49,6 +49,23 @@
 <v t="yen.20170108171733.11" a="E"><vh>body</vh>
 <v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
 <v t="yen.20170108171733.13" a="E"><vh>slides div</vh>
+<v t="leo.20180104093734.1" a="E"><vh>期末報告</vh>
+<v t="leo.20180104093825.1" a="E"><vh>大綱</vh>
+<v t="leo.20180104093836.1"><vh>大綱</vh></v>
+</v>
+<v t="leo.20180104093824.2" a="E"><vh>newHeadline</vh>
+<v t="leo.20180104093836.2"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180104093824.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180104093837.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180104093822.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180104093838.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180104093744.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180104093813.1"><vh>newHeadline</vh></v>
+</v>
+</v>
 <v t="yen.20170108171733.14" a="E"><vh>封面投影片</vh>
 <v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
 <v t="leo.20171105171517.1" a="E"><vh>newHeadline</vh>
@@ -81,7 +98,7 @@
 <v t="leo.20171105170904.1"><vh>newHeadline</vh></v>
 </v>
 </v>
-<v t="leo.20171105160506.1" a="E"><vh>W4-W6</vh>
+<v t="leo.20171105160506.1"><vh>W4-W6</vh>
 <v t="leo.20171105161920.1" a="E"><vh>上課大綱</vh>
 <v t="leo.20171105164321.1"><vh>內容</vh></v>
 </v>
@@ -110,7 +127,7 @@
 <v t="leo.20171105165551.1"><vh>測試</vh></v>
 </v>
 </v>
-<v t="leo.20171105193658.1"><vh>W7-W9</vh>
+<v t="leo.20171105193658.1" a="E"><vh>W7-W9</vh>
 <v t="leo.20171105193712.1" a="E"><vh>上課大綱</vh>
 <v t="leo.20171105193724.1"><vh>內容</vh></v>
 </v>
@@ -137,13 +154,13 @@
 </v>
 </v>
 <v t="leo.20171108102418.1"><vh>影片整理</vh>
-<v t="leo.20171108102455.1" a="E"><vh>影片整理</vh>
+<v t="leo.20171108102455.1"><vh>影片整理</vh>
 <v t="leo.20171108102652.1"><vh>封面</vh></v>
 </v>
-<v t="leo.20171108102453.1" a="E"><vh>影片整理</vh>
+<v t="leo.20171108102453.1"><vh>影片整理</vh>
 <v t="leo.20171108102654.1"><vh>如何上推</vh></v>
 </v>
-<v t="leo.20171108102449.1" a="E"><vh>影片整理</vh>
+<v t="leo.20171108102449.1"><vh>影片整理</vh>
 <v t="leo.20171108102657.1"><vh>for迴圈影片</vh></v>
 </v>
 <v t="leo.20171108102431.1" a="E"><vh>影片整理</vh>
@@ -152,11 +169,14 @@
 <v t="leo.20171108103625.1" a="E"><vh>影片整理</vh>
 <v t="leo.20171108103628.1"><vh>期中簡報</vh></v>
 </v>
-<v t="leo.20171108102522.1" a="E"><vh>背景</vh>
+<v t="leo.20180104091527.1" a="E"><vh>影片整理</vh>
+<v t="leo.20180104091531.1"><vh>期末</vh></v>
+</v>
+<v t="leo.20171108102522.1"><vh>背景</vh>
 <v t="leo.20171108102529.1"><vh>newHeadline</vh></v>
 </v>
 </v>
-<v t="leo.20171109221238.1" a="E"><vh>筆記整理</vh>
+<v t="leo.20171109221238.1"><vh>筆記整理</vh>
 <v t="leo.20171109223023.1" a="E"><vh>筆記整理目錄</vh>
 <v t="leo.20171109223032.1"><vh>筆記整理目錄</vh></v>
 </v>
@@ -194,7 +214,7 @@
 <v t="leo.20171026095529.1"><vh>@edit 20171026.md</vh></v>
 <v t="leo.20171105091505.1"><vh>@edit 20171102.md</vh></v>
 <v t="leo.20171106211242.1"><vh>@edit 20171106.md</vh></v>
-<v t="leo.20171019174412.1"><vh>newHeadline</vh></v>
+<v t="leo.20171019174412.1"><vh>@edit 20170104.md</vh></v>
 <v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -219,7 +239,6 @@ g.es("admin pelican Github 執行完畢")
 
 </t>
 <t tx="leo.20170912210747.1"></t>
-<t tx="leo.20171019174412.1"></t>
 <t tx="leo.20171105151031.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -543,6 +562,53 @@ eric6拉出計算機外型影片☝&lt;/font&gt;</t>
 * Python3語法
 * 上課講過的單字
 </t>
+<t tx="leo.20180104091527.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180104091531.1">&lt;iframe width="900" height="480" src="https://www.youtube.com/embed/oanfrTCJyrM" frameborder="0" gesture="media" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;font color="#DDDDDD"face="Comic Sans MS" size="15"&gt;
+完整版製作計算機☝&lt;/font&gt;</t>
+<t tx="leo.20180104093734.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+
+					</t>
+<t tx="leo.20180104093744.1">  </t>
+<t tx="leo.20180104093813.1"></t>
+<t tx="leo.20180104093822.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180104093824.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180104093824.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180104093825.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180104093836.1">&lt;marquee behavior="alternate"&gt;&lt;font color="#FF3333"face="Comic Sans MS" size="20"&gt;期&lt;/font&gt;&lt;font color="#FFAA33"face="Comic Sans MS" size="20"&gt;末&lt;/font&gt;&lt;font color="#FFFF33"face="Comic Sans MS" size="20"&gt;報&lt;/font&gt;&lt;font color="#99FF33"face="Comic Sans MS" size="20"&gt;告&lt;/font&gt;&lt;/marquee&gt;
+
+* Ⅰ.在 Github 建立倉儲並新增協同作業者
+* Ⅱ.更改start.bat與launchLeo.py
+* Ⅲ.更改按鍵名稱連結到函式中 
+* Ⅳ.程式碼解說
+* Ⅴ.製作期末簡報
+</t>
+<t tx="leo.20180104093836.2"></t>
+<t tx="leo.20180104093837.1"></t>
+<t tx="leo.20180104093838.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
