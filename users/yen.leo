@@ -49,33 +49,16 @@
 <v t="yen.20170108171733.11" a="E"><vh>body</vh>
 <v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
 <v t="yen.20170108171733.13" a="E"><vh>slides div</vh>
-<v t="leo.20180104093734.1" a="E"><vh>期末報告</vh>
-<v t="leo.20180104093825.1" a="E"><vh>大綱</vh>
-<v t="leo.20180104093836.1"><vh>大綱</vh></v>
-</v>
-<v t="leo.20180104093824.2" a="E"><vh>newHeadline</vh>
-<v t="leo.20180104093836.2"><vh>newHeadline</vh></v>
-</v>
-<v t="leo.20180104093824.1" a="E"><vh>newHeadline</vh>
-<v t="leo.20180104093837.1"><vh>newHeadline</vh></v>
-</v>
-<v t="leo.20180104093822.1" a="E"><vh>newHeadline</vh>
-<v t="leo.20180104093838.1"><vh>newHeadline</vh></v>
-</v>
-<v t="leo.20180104093744.1" a="E"><vh>newHeadline</vh>
-<v t="leo.20180104093813.1"><vh>newHeadline</vh></v>
-</v>
-</v>
-<v t="yen.20170108171733.14" a="E"><vh>封面投影片</vh>
+<v t="yen.20170108171733.14"><vh>封面投影片</vh>
 <v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
 <v t="leo.20171105171517.1" a="E"><vh>newHeadline</vh>
 <v t="leo.20171105171526.1"><vh>newHeadline</vh></v>
 </v>
 </v>
-<v t="leo.20171109220523.1" a="E"><vh>目錄</vh>
+<v t="leo.20171109220523.1"><vh>目錄</vh>
 <v t="leo.20171109220538.1"><vh>目錄</vh></v>
 </v>
-<v t="leo.20171109221201.1" a="E"><vh>課程大綱摘要</vh>
+<v t="leo.20171109221201.1"><vh>課程大綱摘要</vh>
 <v t="leo.20171109221203.1"><vh>課程大綱摘要</vh></v>
 </v>
 <v t="yen.20170108171733.16" a="E"><vh>W1-W3</vh>
@@ -85,7 +68,7 @@
 <v t="leo.20171105153144.1" a="E"><vh>了解隨身系統用途</vh>
 <v t="leo.20171105153144.2"><vh>如何開啟隨身系統?</vh></v>
 </v>
-<v t="leo.20171105153130.1"><vh>了解隨身系統用途</vh>
+<v t="leo.20171105153130.1" a="E"><vh>了解隨身系統用途</vh>
 <v t="leo.20171105153130.2"><vh>圖片</vh></v>
 </v>
 <v t="leo.20171105151031.1" a="E"><vh>了解隨身系統用途</vh>
@@ -98,7 +81,7 @@
 <v t="leo.20171105170904.1"><vh>newHeadline</vh></v>
 </v>
 </v>
-<v t="leo.20171105160506.1"><vh>W4-W6</vh>
+<v t="leo.20171105160506.1" a="E"><vh>W4-W6</vh>
 <v t="leo.20171105161920.1" a="E"><vh>上課大綱</vh>
 <v t="leo.20171105164321.1"><vh>內容</vh></v>
 </v>
@@ -122,9 +105,9 @@
 </v>
 <v t="leo.20171105175637.1" a="E"><vh>eric6</vh>
 <v t="leo.20171105175648.1"><vh>eric6</vh></v>
-</v>
-<v t="leo.20171105161915.1"><vh>測試</vh>
+<v t="leo.20171105161915.1" a="E"><vh>測試</vh>
 <v t="leo.20171105165551.1"><vh>測試</vh></v>
+</v>
 </v>
 </v>
 <v t="leo.20171105193658.1" a="E"><vh>W7-W9</vh>
@@ -151,6 +134,44 @@
 </v>
 <v t="leo.20171105193721.3" a="E"><vh>圖片</vh>
 <v t="leo.20171105195716.1"><vh>圖片</vh></v>
+</v>
+</v>
+<v t="leo.20180104093734.1" a="E"><vh>期末報告</vh>
+<v t="leo.20180104093825.1"><vh>大綱</vh>
+<v t="leo.20180104093836.1"><vh>大綱內容</vh></v>
+</v>
+<v t="leo.20180105095606.1" a="E"><vh>指令</vh>
+<v t="leo.20180105095612.1"><vh>大綱</vh></v>
+</v>
+<v t="leo.20180105095607.1" a="E"><vh>指令</vh>
+<v t="leo.20180105095611.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180105095603.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180105095613.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180104093824.2" a="E"><vh>更改start.bat與launchLeo.py</vh>
+<v t="leo.20180104093836.2"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180104093824.1"><vh>更改start.bat與launchLeo.py</vh>
+<v t="leo.20180104093837.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180104093822.1"><vh>更改按鍵名稱連結到函式中</vh>
+<v t="leo.20180104093838.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180104103159.1" a="E"><vh>更改按鍵名稱連結到函式中</vh>
+<v t="leo.20180104103215.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180104103201.1" a="E"><vh>程式碼解說</vh>
+<v t="leo.20180104103214.1"><vh>程式碼解說</vh></v>
+</v>
+<v t="leo.20180104103202.1" a="E"><vh>程式碼解說</vh>
+<v t="leo.20180104103213.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180104103156.1"><vh>newHeadline</vh>
+<v t="leo.20180104103216.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180104093744.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180104093813.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 <v t="leo.20171108102418.1"><vh>影片整理</vh>
@@ -606,9 +627,63 @@ eric6拉出計算機外型影片☝&lt;/font&gt;</t>
 * Ⅳ.程式碼解說
 * Ⅴ.製作期末簡報
 </t>
-<t tx="leo.20180104093836.2"></t>
+<t tx="leo.20180104093836.2">##如何更改start.bat與launchLeo.py?</t>
 <t tx="leo.20180104093837.1"></t>
-<t tx="leo.20180104093838.1"></t>
+<t tx="leo.20180104093838.1">##如何將按鍵連結到計算機函式?</t>
+<t tx="leo.20180104103156.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180104103159.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180104103201.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180104103202.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180104103213.1"></t>
+<t tx="leo.20180104103214.1">##看不懂程式碼?</t>
+<t tx="leo.20180104103215.1">```
+@language python
+self.按鍵名稱.clicked.connect(self.對應函式)
+
+```
+按鍵名稱可以去.ui檔做更改
+
+對應函式可以看左方的列表</t>
+<t tx="leo.20180104103216.1"></t>
+<t tx="leo.20180105095603.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180105095606.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180105095607.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180105095611.1">&lt;font face="Microsoft JhengHei" color="#FFEE99" size="10"&gt;&lt;i&gt;&lt;u&gt;git add&lt;/i&gt;&lt;/u&gt;☞ 綁定帳戶 &lt;/font&gt;
+&lt;font face="Microsoft JhengHei" color="#FFEE99" size="10"&gt;&lt;i&gt;&lt;u&gt;git add&lt;/i&gt;&lt;/u&gt;☞新增準備要上推的檔案 &lt;/font&gt;
+&lt;font face="Microsoft JhengHei" color="#FFEE99" size="10"&gt;&lt;i&gt;&lt;u&gt;git branch&lt;/i&gt;&lt;/u&gt;☞查看github分支 &lt;/font&gt;
+&lt;font face="Microsoft JhengHei" color="#FFEE99" size="10"&gt;&lt;i&gt;&lt;u&gt;git commit -m " " &lt;/i&gt;&lt;/u&gt;雙引號內為推送標題 &lt;/font&gt;☞
+&lt;font face="Microsoft JhengHei" color="#FFEE99" size="10"&gt;&lt;i&gt;&lt;u&gt;git pull&lt;/i&gt;&lt;/u&gt; ☞拉下最新版本&lt;/font&gt;
+&lt;font face="Microsoft JhengHei" color="#FFEE99" size="10"&gt;&lt;i&gt;&lt;u&gt;git push&lt;/i&gt;&lt;/u&gt; ☞推送檔案上傳&lt;/font&gt;</t>
+<t tx="leo.20180105095612.1">##Github重要的指令</t>
+<t tx="leo.20180105095613.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
