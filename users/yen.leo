@@ -137,31 +137,34 @@
 </v>
 </v>
 <v t="leo.20180104093734.1" a="E"><vh>期末報告</vh>
-<v t="leo.20180104093825.1" a="E"><vh>大綱</vh>
+<v t="leo.20180104093825.1"><vh>大綱</vh>
 <v t="leo.20180104093836.1"><vh>大綱內容</vh></v>
 </v>
-<v t="leo.20180105095606.1" a="E"><vh>指令</vh>
+<v t="leo.20180105095606.1"><vh>指令</vh>
 <v t="leo.20180105095612.1"><vh>大綱</vh></v>
 </v>
-<v t="leo.20180105095607.1" a="E"><vh>指令</vh>
+<v t="leo.20180105095607.1"><vh>指令</vh>
 <v t="leo.20180105095611.1"><vh>內容</vh></v>
 </v>
-<v t="leo.20180104093824.2" a="E"><vh>更改start.bat與launchLeo.py</vh>
+<v t="leo.20180104093824.2"><vh>更改start.bat與launchLeo.py</vh>
 <v t="leo.20180104093836.2"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20180104093822.1" a="E"><vh>更改按鍵名稱連結到函式中</vh>
+<v t="leo.20180104093822.1"><vh>更改按鍵名稱連結到函式中</vh>
 <v t="leo.20180104093838.1"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20180104103159.1" a="E"><vh>更改按鍵名稱連結到函式中</vh>
+<v t="leo.20180104103159.1"><vh>更改按鍵名稱連結到函式中</vh>
 <v t="leo.20180104103215.1"><vh>內容</vh></v>
 </v>
-<v t="leo.20180104103201.1" a="E"><vh>程式碼解說</vh>
+<v t="leo.20180104103201.1"><vh>程式碼解說</vh>
 <v t="leo.20180104103214.1"><vh>程式碼解說</vh></v>
 </v>
-<v t="leo.20180104103202.1" a="E"><vh>程式碼解說</vh>
+<v t="leo.20180104103202.1"><vh>程式碼解說</vh>
 <v t="leo.20180104103213.1"><vh>內容</vh></v>
 </v>
-<v t="leo.20180104093744.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180109215052.1"><vh>心得</vh>
+<v t="leo.20180109215054.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180104093744.1"><vh>newHeadline</vh>
 <v t="leo.20180104093813.1"><vh>newHeadline</vh></v>
 </v>
 </v>
@@ -188,7 +191,7 @@
 <v t="leo.20171108102529.1"><vh>newHeadline</vh></v>
 </v>
 </v>
-<v t="leo.20171109221238.1"><vh>筆記整理</vh>
+<v t="leo.20171109221238.1" a="E"><vh>筆記整理</vh>
 <v t="leo.20171109223023.1" a="E"><vh>筆記整理目錄</vh>
 <v t="leo.20171109223032.1"><vh>筆記整理目錄</vh></v>
 </v>
@@ -210,7 +213,7 @@
 <v t="leo.20171109221535.1" a="E"><vh>上課講過的單字</vh>
 <v t="leo.20171109221542.1"><vh>上課講過的單字</vh></v>
 </v>
-<v t="leo.20171109221533.1"><vh>newHeadline</vh>
+<v t="leo.20171109221533.1" a="E"><vh>newHeadline</vh>
 <v t="leo.20171109221542.2"><vh>newHeadline</vh></v>
 </v>
 </v>
@@ -611,7 +614,8 @@ eric6拉出計算機外型影片☝&lt;/font&gt;</t>
 * Ⅱ.更改start.bat與launchLeo.py
 * Ⅲ.製作計算機框架
 * Ⅳ.更改按鍵名稱連結到函式中 
-* Ⅴ.製作期末簡報
+* Ⅴ.與組員一起製作計算機
+* ⅤⅠ.製作期末簡報
 </t>
 <t tx="leo.20180104093836.2">##如何更改start.bat與launchLeo.py?
 * 將捷徑拉入SciTE更改就好啦</t>
@@ -658,6 +662,14 @@ self.按鍵名稱.clicked.connect(self.對應函式)
 &lt;font face="Microsoft JhengHei" color="#FFEE99" size="10"&gt;&lt;i&gt;&lt;u&gt;git pull&lt;/i&gt;&lt;/u&gt; ☞拉下最新版本&lt;/font&gt;
 &lt;font face="Microsoft JhengHei" color="#FFEE99" size="10"&gt;&lt;i&gt;&lt;u&gt;git push&lt;/i&gt;&lt;/u&gt; ☞推送檔案上傳&lt;/font&gt;</t>
 <t tx="leo.20180105095612.1">##Github重要的指令</t>
+<t tx="leo.20180109215052.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109215054.1">##期末心得
+####懵懵懂懂中，一學期的計算機程式就上完了，雖然有時候尊師的跫音快了些，宛如忽遠忽近的女朋友，感覺快得到真髓了卻又悠悠的如霧一般消散成殘破的碎影，計算機程式讓我十分驚嘆，要比喻的話就像拿破崙發現北極熊一樣驚訝吧，終於見識到了網路世界的無境浩瀚宇宙
+組別報告則是這堂課另一項艱難的考驗，在佈滿滾滾碎岩的知識中考驗著人性，抓錯了，就掉入無盡的深崖中，幸虧我 的各個組員比faker還carry，引導著我攀到成功之頂，雖然手掌已經殘破不堪了，但看著腳下緩緩升起的曙光，一切，都值得了。</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
