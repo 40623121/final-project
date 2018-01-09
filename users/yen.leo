@@ -137,7 +137,7 @@
 </v>
 </v>
 <v t="leo.20180104093734.1" a="E"><vh>期末報告</vh>
-<v t="leo.20180104093825.1"><vh>大綱</vh>
+<v t="leo.20180104093825.1" a="E"><vh>大綱</vh>
 <v t="leo.20180104093836.1"><vh>大綱內容</vh></v>
 </v>
 <v t="leo.20180105095606.1" a="E"><vh>指令</vh>
@@ -146,16 +146,10 @@
 <v t="leo.20180105095607.1" a="E"><vh>指令</vh>
 <v t="leo.20180105095611.1"><vh>內容</vh></v>
 </v>
-<v t="leo.20180105095603.1" a="E"><vh>newHeadline</vh>
-<v t="leo.20180105095613.1"><vh>newHeadline</vh></v>
-</v>
 <v t="leo.20180104093824.2" a="E"><vh>更改start.bat與launchLeo.py</vh>
 <v t="leo.20180104093836.2"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20180104093824.1"><vh>更改start.bat與launchLeo.py</vh>
-<v t="leo.20180104093837.1"><vh>內容</vh></v>
-</v>
-<v t="leo.20180104093822.1"><vh>更改按鍵名稱連結到函式中</vh>
+<v t="leo.20180104093822.1" a="E"><vh>更改按鍵名稱連結到函式中</vh>
 <v t="leo.20180104093838.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20180104103159.1" a="E"><vh>更改按鍵名稱連結到函式中</vh>
@@ -166,9 +160,6 @@
 </v>
 <v t="leo.20180104103202.1" a="E"><vh>程式碼解說</vh>
 <v t="leo.20180104103213.1"><vh>內容</vh></v>
-</v>
-<v t="leo.20180104103156.1"><vh>newHeadline</vh>
-<v t="leo.20180104103216.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20180104093744.1" a="E"><vh>newHeadline</vh>
 <v t="leo.20180104093813.1"><vh>newHeadline</vh></v>
@@ -597,14 +588,9 @@ eric6拉出計算機外型影片☝&lt;/font&gt;</t>
 
 
 					</t>
-<t tx="leo.20180104093744.1">  </t>
-<t tx="leo.20180104093813.1"></t>
+<t tx="leo.20180104093744.1"></t>
+<t tx="leo.20180104093813.1">&lt;img src="https://cpa.kmol.info/40623121/raw/77157fd9c2d1dd489a3fcb63de904befd65406925d99555b6e2ae069c61bd6d9?m=image/png" width="150" height="150"&gt;&lt;/a&gt;</t>
 <t tx="leo.20180104093822.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20180104093824.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -623,18 +609,13 @@ eric6拉出計算機外型影片☝&lt;/font&gt;</t>
 
 * Ⅰ.在 Github 建立倉儲並新增協同作業者
 * Ⅱ.更改start.bat與launchLeo.py
-* Ⅲ.更改按鍵名稱連結到函式中 
-* Ⅳ.程式碼解說
+* Ⅲ.製作計算機框架
+* Ⅳ.更改按鍵名稱連結到函式中 
 * Ⅴ.製作期末簡報
 </t>
-<t tx="leo.20180104093836.2">##如何更改start.bat與launchLeo.py?</t>
-<t tx="leo.20180104093837.1"></t>
+<t tx="leo.20180104093836.2">##如何更改start.bat與launchLeo.py?
+* 將捷徑拉入SciTE更改就好啦</t>
 <t tx="leo.20180104093838.1">##如何將按鍵連結到計算機函式?</t>
-<t tx="leo.20180104103156.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
 <t tx="leo.20180104103159.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -650,7 +631,7 @@ eric6拉出計算機外型影片☝&lt;/font&gt;</t>
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180104103213.1"></t>
+<t tx="leo.20180104103213.1">* 快訂閱40623121的頻道每日六點準時發佈解說影片喔</t>
 <t tx="leo.20180104103214.1">##看不懂程式碼?</t>
 <t tx="leo.20180104103215.1">```
 @language python
@@ -660,12 +641,6 @@ self.按鍵名稱.clicked.connect(self.對應函式)
 按鍵名稱可以去.ui檔做更改
 
 對應函式可以看左方的列表</t>
-<t tx="leo.20180104103216.1"></t>
-<t tx="leo.20180105095603.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
 <t tx="leo.20180105095606.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -683,7 +658,6 @@ self.按鍵名稱.clicked.connect(self.對應函式)
 &lt;font face="Microsoft JhengHei" color="#FFEE99" size="10"&gt;&lt;i&gt;&lt;u&gt;git pull&lt;/i&gt;&lt;/u&gt; ☞拉下最新版本&lt;/font&gt;
 &lt;font face="Microsoft JhengHei" color="#FFEE99" size="10"&gt;&lt;i&gt;&lt;u&gt;git push&lt;/i&gt;&lt;/u&gt; ☞推送檔案上傳&lt;/font&gt;</t>
 <t tx="leo.20180105095612.1">##Github重要的指令</t>
-<t tx="leo.20180105095613.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
